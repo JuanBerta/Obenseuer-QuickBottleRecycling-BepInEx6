@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Obenseuer-QuickBottleRecycling.csproj" Id="4c7b91c4-6b5e-4a3d-9d22-8b1e5c3a0d46">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
